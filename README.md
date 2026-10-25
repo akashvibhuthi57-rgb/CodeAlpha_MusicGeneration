@@ -1,4 +1,4 @@
-# AI Music Generation with an LSTM (CodeAlpha Task 3)
+# AI Music Generation with an LSTM
 
 A deep learning model that learns the melodic patterns of J.S. Bach's chorales and composes new melodies,
 exported as MIDI and WAV.
