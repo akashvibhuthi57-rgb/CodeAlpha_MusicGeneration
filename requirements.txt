@@ -1,0 +1,4 @@
+torch>=2.0
+music21>=9.1
+numpy
+matplotlib
